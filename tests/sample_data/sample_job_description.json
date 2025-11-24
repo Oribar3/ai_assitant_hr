@@ -1,0 +1,72 @@
+{
+  "job_title": "Senior Python Developer",
+  "company": "TechCorp Solutions",
+  "department": "Engineering",
+  "location": "San Francisco, CA",
+  "job_type": "Full-time",
+  "summary": "We are seeking an experienced Senior Python Developer to join our dynamic engineering team. You will lead the development of scalable web applications and mentor junior team members while working on cutting-edge projects in e-commerce and fintech.",
+  "responsibilities": [
+    "Design and implement scalable web applications using Python frameworks",
+    "Lead development projects and mentor junior developers",
+    "Architect and maintain microservices infrastructure",
+    "Optimize application performance and database queries",
+    "Implement CI/CD pipelines and automated testing",
+    "Collaborate with cross-functional teams in agile environment"
+  ],
+  "required_skills": {
+    "technical_skills": [
+      "Python",
+      "Django",
+      "FastAPI",
+      "PostgreSQL",
+      "REST APIs",
+      "Git"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Team collaboration",
+      "Problem solving"
+    ],
+    "certifications": [],
+    "languages": [
+      "English"
+    ]
+  },
+  "preferred_skills": {
+    "technical_skills": [
+      "React",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "MongoDB",
+      "Redis",
+      "Jenkins"
+    ],
+    "soft_skills": [
+      "Agile methodologies",
+      "Mentoring experience"
+    ],
+    "certifications": [
+      "AWS Certified Solutions Architect",
+      "Certified Kubernetes Administrator"
+    ],
+    "languages": [
+      "Spanish"
+    ]
+  },
+  "min_years_experience": 5,
+  "max_years_experience": 12,
+  "education_requirements": [
+    "Bachelor's degree in Computer Science or related field"
+  ],
+  "salary_range": "$120,000 - $180,000",
+  "benefits": [
+    "Comprehensive health insurance",
+    "Flexible work arrangements",
+    "401(k) with company match",
+    "Professional development budget",
+    "Stock options"
+  ],
+  "company_culture": "We foster an innovative and collaborative culture where creativity and continuous learning are encouraged. Our team values diversity, work-life balance, and giving back to the community."
+}

@@ -1,0 +1,44 @@
+# Resume Screening Pipeline Configuration
+
+scoring:
+  weights:
+    skills_match: 0.40
+    experience_relevance: 0.30
+    education_match: 0.15
+    cultural_fit: 0.15
+  
+  thresholds:
+    excellent: 85      # Strong hire recommendation
+    good: 70          # Consider for interview
+    moderate: 55      # Maybe with reservations
+    low: 0            # Not recommended
+
+matching:
+  min_similarity_score: 0.6
+  required_skills_weight: 1.5    # Boost for required skills
+  preferred_skills_weight: 1.0   # Normal weight for preferred skills
+  
+agents:
+  timeout_seconds: 120
+  max_retries: 3
+  
+parsing:
+  extract_sections:
+    - contact_info
+    - skills
+    - experience
+    - education
+    - certifications
+    - languages
+  
+  skill_categories:
+    - technical
+    - soft_skills
+    - languages
+    - tools
+
+reporting:
+  output_format: json  # json, csv, pdf
+  include_reasoning: true
+  max_candidates_in_report: 20
+  generate_interview_questions: true

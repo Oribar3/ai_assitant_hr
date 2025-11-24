@@ -1,0 +1,73 @@
+John Smith
+Senior Python Developer
+
+CONTACT INFORMATION
+Email: john.smith@email.com
+Phone: +1 (555) 123-4567
+LinkedIn: linkedin.com/in/johnsmithdev
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Experienced Senior Python Developer with 6+ years of expertise in web application development, backend systems, and cloud architecture. Proven track record of building scalable applications and leading development teams. Passionate about clean code, agile methodologies, and mentoring junior developers.
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, SQL, HTML/CSS
+Frameworks: Django, FastAPI, Flask, React, Node.js
+Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+Cloud: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes
+Tools: Git, Jenkins, Jira, Confluence
+Other: REST APIs, GraphQL, Microservices, TDD, CI/CD
+
+PROFESSIONAL EXPERIENCE
+
+Senior Python Developer
+TechCorp Solutions, San Francisco, CA
+January 2021 - Present
+- Led development of high-traffic e-commerce platform using Django and PostgreSQL, serving 1M+ daily users
+- Architected and implemented microservices infrastructure using FastAPI and Kubernetes, reducing deployment time by 70%
+- Mentored 3 junior developers and established code review processes, improving team velocity by 40%
+- Implemented CI/CD pipelines using Jenkins and Docker, achieving 95% automated testing coverage
+- Optimized database queries resulting in 50% improvement in API response times
+
+Python Developer
+StartupXYZ, San Francisco, CA
+March 2019 - December 2020
+- Built RESTful APIs serving mobile and web clients using Flask and MongoDB
+- Developed real-time analytics dashboard using React and WebSocket connections
+- Implemented automated testing suites reducing bug rates by 60%
+- Collaborated with cross-functional teams in agile environment
+
+Junior Python Developer
+DataTech Inc, Oakland, CA
+June 2017 - February 2019
+- Developed data processing pipelines using Python and SQL
+- Created ETL processes for big data applications
+- Participated in system design and code optimization projects
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of California, Berkeley
+September 2013 - May 2017
+GPA: 3.8/4.0
+Dean's List for 6 semesters
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect (2022)
+- Certified Kubernetes Administrator (CKA) (2021)
+- Scrum Master Certification (2020)
+
+PROJECTS
+
+Personal Finance Tracker (Python/Django)
+- Built comprehensive financial management application
+- Features include budget tracking, expense categorization, and data visualization
+- Deployed on AWS with PostgreSQL backend
+
+Open Source Contributions
+- Contributor to Django REST Framework
+- Published 5 Python packages on PyPI
+
+LANGUAGES
+English (Native)
+Spanish (Conversational)
